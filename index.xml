@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ying (Anney) Xiong</title>
+    <link>https://Anneybear.github.io/</link>
+      <atom:link href="https://Anneybear.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ying (Anney) Xiong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Anneybear.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ying (Anney) Xiong</title>
+      <link>https://Anneybear.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Basketball Free Throws</title>
+      <link>https://Anneybear.github.io/project/basketball-free-throws/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Anneybear.github.io/project/basketball-free-throws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coronavirus-US cases and deaths-04/15</title>
+      <link>https://Anneybear.github.io/project/coronavirus/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Anneybear.github.io/project/coronavirus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Financial Statement Analysis</title>
+      <link>https://Anneybear.github.io/project/financial-statement-analysis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Anneybear.github.io/project/financial-statement-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movie Domestic Percentage Gross</title>
+      <link>https://Anneybear.github.io/project/movie-domestic-percentage-gross/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Anneybear.github.io/project/movie-domestic-percentage-gross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moving Rating Analytics</title>
+      <link>https://Anneybear.github.io/project/moving-rating-analytics/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Anneybear.github.io/project/moving-rating-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL for Movie-Rating and Social-Network Analysis</title>
+      <link>https://Anneybear.github.io/project/sql/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Anneybear.github.io/project/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Superstore Sales Analysis(2011-2015)</title>
+      <link>https://Anneybear.github.io/project/superstore-sales-analysis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Anneybear.github.io/project/superstore-sales-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>World trend</title>
+      <link>https://Anneybear.github.io/project/world-trend/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Anneybear.github.io/project/world-trend/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

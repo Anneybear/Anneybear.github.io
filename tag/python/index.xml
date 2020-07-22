@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python | Ying (Anney) Xiong</title>
+    <link>https://Anneybear.github.io/tag/python/</link>
+      <atom:link href="https://Anneybear.github.io/tag/python/index.xml" rel="self" type="application/rss+xml" />
+    <description>Python</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Anneybear.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Python</title>
+      <link>https://Anneybear.github.io/tag/python/</link>
+    </image>
+    
+    <item>
+      <title>Basketball Free Throws</title>
+      <link>https://Anneybear.github.io/project/basketball-free-throws/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Anneybear.github.io/project/basketball-free-throws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Financial Statement Analysis</title>
+      <link>https://Anneybear.github.io/project/financial-statement-analysis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Anneybear.github.io/project/financial-statement-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movie Domestic Percentage Gross</title>
+      <link>https://Anneybear.github.io/project/movie-domestic-percentage-gross/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Anneybear.github.io/project/movie-domestic-percentage-gross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moving Rating Analytics</title>
+      <link>https://Anneybear.github.io/project/moving-rating-analytics/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Anneybear.github.io/project/moving-rating-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>World trend</title>
+      <link>https://Anneybear.github.io/project/world-trend/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Anneybear.github.io/project/world-trend/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
